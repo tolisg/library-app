@@ -1,0 +1,11 @@
+{
+  "home": "Home",
+  "login": "Login",
+  "createNewUser": "Create new User",
+  "createNewBook": "Create new Book",
+  "ManageUsers": "Manage Users",
+  "ManageBooks": "Manage Books",
+  "LoanBook": "Loan a Book",
+  "ReturnBook": "Return a Book",
+  "logout": "Logout"
+}

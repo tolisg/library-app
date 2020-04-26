@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Tolis",
+        "lastname": "Gkoumas",
+        "address": "Athens, Greece",
+        "email": "tolisgkoumas@email.com",
+        "onloan": "0",
+        "loan_history": []
+    },
+    {
+        "id": "2",
+        "name": "Apostolos",
+        "lastname": "Gkoumas",
+        "address": "Athens, Greece",
+        "email": "apostolosgkoumas@email.com",
+        "onloan": "0",
+        "loan_history": []
+    },
+    {
+        "id": "3",
+        "name": "George",
+        "lastname": "Martins",
+        "address": "Athens, Greece",
+        "email": "georgemartins@email.com",
+        "onloan": "0",
+        "loan_history": []
+    }
+]

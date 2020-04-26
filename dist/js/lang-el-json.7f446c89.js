@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-el-json"],{f257:function(o){o.exports=JSON.parse('{"home":"Αρχική","login":"Σύνδεση","createNewUser":"Νέος Χρήστης","createNewBook":"Νέο Βιβλίο","ManageUsers":"Διαχείρηση χρηστών","ManageBooks":"Διαχείρηση Βιβλίων","LoanBook":"Ενοικίαση Βιβλίου","ReturnBook":"Επιστροφή Βιβλίου","logout":"Αποσύνδεση"}')}}]);
+//# sourceMappingURL=lang-el-json.7f446c89.js.map
